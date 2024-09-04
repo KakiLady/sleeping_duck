@@ -1,6 +1,6 @@
-### sleeping duck ###
+# sleeping duck #
 
-## What I want to learn in this project ##
+### What I want to learn in this project ###
 
 - [ ] make a game with a cozy vibe
 - [ ] improve pixel art 
@@ -12,7 +12,7 @@
 - [ ] make it feel like a real game
 
 
-## Story ##
+### Story ###
 
 - You are friens with a sleepy duck whose bed ot destroyed. It is your duty to help your friend by collecting all the pieces of the bed so that it can sleep 
 
@@ -22,7 +22,7 @@
   I generally do notlike fighting and find games without it quite interesting
 
 
-## Mechanics ##
+### Mechanics ###
 
 - 2D
 - Pixelart
@@ -30,7 +30,7 @@
 - Puzzle/Platform(/Fighting)
 
 
-## Design ##
+### Design ###
 
 - pastel colours
 - cute characters
