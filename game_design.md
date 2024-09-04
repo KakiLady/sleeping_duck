@@ -2,7 +2,7 @@
 
 ## What I want to learn in this project ##
 
-- [ ] make a ggame with a cozy vibe
+- [ ] make a game with a cozy vibe
 - [ ] improve pixel art 
 - [ ] malemusic that is going into the direction of classical music
 - [ ] make my first "own" game
