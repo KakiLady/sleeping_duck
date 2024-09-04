@@ -2,14 +2,14 @@
 
 ## What I want to learn in this project ##
 
-- [] make a ggame with a cozy vibe
-- [] improve pixel art 
-- [] malemusic that is going into the direction of classical music
-- [] make my first "own" game
-- [] learn how to really desin (colour palette, coherent design)
-- [] create a ggreat itch.io page
-- [] create a story 
-- [] make it feel like a real game
+- [ ] make a ggame with a cozy vibe
+- [ ] improve pixel art 
+- [ ] malemusic that is going into the direction of classical music
+- [ ] make my first "own" game
+- [ ] learn how to really desin (colour palette, coherent design)
+- [ ] create a ggreat itch.io page
+- [ ] create a story 
+- [ ] make it feel like a real game
 
 
 ## Story ##
