@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://b3pbdseomenby"]
+
+[ext_resource type="Texture2D" uid="uid://5mkcfw61rf5a" path="res://art/duckling.png" id="1_qgjmn"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4pfpo"]
+atlas = ExtResource("1_qgjmn")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_s6stk"]
+atlas = ExtResource("1_qgjmn")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_uscq8"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4pfpo")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_s6stk")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 3.0
+}]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_uscq8")
+animation = &"idle"
+autoplay = "idle"
+frame_progress = 0.204729
